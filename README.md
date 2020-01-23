@@ -2,7 +2,7 @@
 
 ## Image
 
-![pic1](images/pic1)
+![pic1](images/pic1.png)
 
 ## Special Thanks
 https://github.com/touyou/NeumorphismTab
